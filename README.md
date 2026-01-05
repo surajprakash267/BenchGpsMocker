@@ -3,6 +3,8 @@
 BenchGpsMocker is an Android-based GPS and speed mocking tool designed for
 bench-level testing of telematics devices, dashcams, and ADAS/DMS systems
 without real vehicle movement.
+<img width="900" height="1000" alt="Screenshot_20260105_025952" src="https://github.com/user-attachments/assets/838aad2c-2555-4f1e-b980-bc61642f1086" />
+
 
 ## 🔧 Features
 - Mock GPS latitude & longitude
